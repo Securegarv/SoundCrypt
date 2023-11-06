@@ -37,7 +37,7 @@ SoundCrypt comprises two Python scripts:
 ### Embed Secret Information in Audio Files
 
 ```bash
-python3 SoundCrypt.py -f Demo.wav -m "Your Secret Message" -o output.wav
+python3 SoundCrypt.py -f demo.wav -m "Your Secret Message" -o output.wav
 ```
 #Extract Secret Information from Audio Files
 ```
