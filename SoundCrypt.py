@@ -1,3 +1,6 @@
+# SoundCrypt Ver 1.0
+# Powered by Securegarv
+# Hide your secret text in wave audio file.
 import os
 import wave
 import argparse
